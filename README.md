@@ -11,6 +11,11 @@ datasets download genome taxon 2698737 --assembly-level chromosome,complete --an
 # unzip archive
 unzip ncbi_dataset.zip
 # organize the assemblies in the target folder 
-python organize_ncbi.py --ncbi ncbi_dataset --target target_folder
+python organize_ncbi.py --ncbi ncbi_dataset --target target_folder/
 
+``` 
+### get_snapshot.py
+This script takes a folder with the structure of `species/assemblies/file` and it produces a snapshot to use in case someone wants to recreate the same folder structure. The snapshot is saved in the `snapshot/` foder and can be tracked using `git`. 
+```
+python get_snapshot.py target_folder
 ``` 
