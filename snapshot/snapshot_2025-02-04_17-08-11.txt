@@ -1,0 +1,373 @@
+Snapshot of: ../species/
+==================================================
+/
+Plasmodium_chabaudi_chabaudi.31271/
+    GCF_900002335.3/
+        GCF_900002335.3_GCA_900002335_genomic.fna
+        GCF_900002335.3_GCA_900002335_genomic.gff
+        GCF_900002335.3.info.csv
+Leishmania_infantum_JPCM5.435258/
+    GCF_000002875.2/
+        GCF_000002875.2_ASM287v2_genomic.fna
+        GCF_000002875.2.info.csv
+        GCF_000002875.2_ASM287v2_genomic.gff
+Dictyostelium_firmibasis.79012/
+    GCA_036169595.1/
+        GCA_036169595.1_ASM3616959v1_genomic.gff
+        GCA_036169595.1_ASM3616959v1_genomic.fna
+        GCA_036169595.1.info.csv
+Giardia_intestinalis.5741/
+    GCF_000002435.2/
+        GCF_000002435.2_UU_WB_2.1_genomic.gff
+        GCF_000002435.2_UU_WB_2.1_genomic.fna
+        GCF_000002435.2.info.csv
+Drosophila_simulans.7240/
+    GCF_016746395.2/
+        GCF_016746395.2_Prin_Dsim_3.1_genomic.gff
+        GCF_016746395.2.info.csv
+        GCF_016746395.2_Prin_Dsim_3.1_genomic.fna
+Plasmodium_falciparum_3D7.36329/
+    GCF_000002765.6/
+        GCF_000002765.6_GCA_000002765_genomic.gff
+        GCF_000002765.6_GCA_000002765_genomic.fna
+        GCF_000002765.6.info.csv
+Plasmodium_sp_DRC-Itaito.720590/
+    GCA_900257145.2/
+        GCA_900257145.2.info.csv
+        GCA_900257145.2_Plasmodium_billcollinsi_genomic.fna
+        GCA_900257145.2_Plasmodium_billcollinsi_genomic.gff
+Peronosclerospora_sorghi.230839/
+    GCA_026184515.1/
+        GCA_026184515.1.info.csv
+        GCA_026184515.1_PsorP6_UCD_v1_genomic.fna
+        GCA_026184515.1_PsorP6_UCD_v1_genomic.gff
+Plasmodium_brasilianum.5824/
+    GCF_023973825.1/
+        GCF_023973825.1_ASM2397382v1_genomic.gff
+        GCF_023973825.1_ASM2397382v1_genomic.fna
+        GCF_023973825.1.info.csv
+Phaeodactylum_tricornutum_CCAP_1055_1.556484/
+    GCF_000150955.2/
+        GCF_000150955.2.info.csv
+        GCF_000150955.2_ASM15095v2_genomic.gff
+        GCF_000150955.2_ASM15095v2_genomic.fna
+Giardia_muris.5742/
+    GCA_006247105.1/
+        GCA_006247105.1_UU_GM_1.1_genomic.fna
+        GCA_006247105.1.info.csv
+        GCA_006247105.1_UU_GM_1.1_genomic.gff
+Musca_domestica.7370/
+    GCF_030504385.1/
+        GCF_030504385.1_Musca_domestica.polishedcontigs.V.1.1_genomic.gff
+        GCF_030504385.1.info.csv
+        GCF_030504385.1_Musca_domestica.polishedcontigs.V.1.1_genomic.fna
+Babesia_duncani.323732/
+    GCF_028658345.1/
+        GCF_028658345.1.info.csv
+        GCF_028658345.1_Bduncani_v1_genomic.fna
+        GCF_028658345.1_Bduncani_v1_genomic.gff
+Babesia_microti_strain_RI.1133968/
+    GCF_000691945.2/
+        GCF_000691945.2_ASM69194v2_genomic.fna
+        GCF_000691945.2.info.csv
+        GCF_000691945.2_ASM69194v2_genomic.gff
+Leishmania_sp_Ghana_2012_LV757.2803181/
+    GCF_017918215.1/
+        GCF_017918215.1.info.csv
+        GCF_017918215.1_LU_Lgha_1.0_genomic.fna
+        GCF_017918215.1_LU_Lgha_1.0_genomic.gff
+Bremia_lactucae.4779/
+    GCF_004359215.1/
+        GCF_004359215.1_BlacSF5v2_genomic.gff
+        GCF_004359215.1.info.csv
+        GCF_004359215.1_BlacSF5v2_genomic.fna
+Ectocarpus_siliculosus.2880/
+    GCA_000310025.1/
+        GCA_000310025.1_ASM31002v1_genomic.fna
+        GCA_000310025.1.info.csv
+        GCA_000310025.1_ASM31002v1_genomic.gff
+Theileria_parva_strain_Muguga.333668/
+    GCF_000165365.1/
+        GCF_000165365.1_ASM16536v1_genomic.gff
+        GCF_000165365.1.info.csv
+        GCF_000165365.1_ASM16536v1_genomic.fna
+Theileria_orientalis_strain_Shintoku.869250/
+    GCF_000740895.1/
+        GCF_000740895.1_ASM74089v1_genomic.fna
+        GCF_000740895.1.info.csv
+        GCF_000740895.1_ASM74089v1_genomic.gff
+Drosophila_ananassae.7217/
+    GCF_017639315.1/
+        GCF_017639315.1_ASM1763931v2_genomic.gff
+        GCF_017639315.1.info.csv
+        GCF_017639315.1_ASM1763931v2_genomic.fna
+Drosophila_virilis.7244/
+    GCF_030788295.1/
+        GCF_030788295.1_Dvir_AGI_RSII-ME_genomic.fna
+        GCF_030788295.1_Dvir_AGI_RSII-ME_genomic.gff
+        GCF_030788295.1.info.csv
+Plasmodium_berghei_ANKA.5823/
+    GCF_900002375.2/
+        GCF_900002375.2_GCA_900002375_genomic.gff
+        GCF_900002375.2_GCA_900002375_genomic.fna
+        GCF_900002375.2.info.csv
+Leishmania_lindenbergi.651832/
+    GCA_962240435.1/
+        GCA_962240435.1.info.csv
+        GCA_962240435.1_Llindenbergi_IOCL2690_genomic.gff
+        GCA_962240435.1_Llindenbergi_IOCL2690_genomic.fna
+Leishmania_enriettii.5663/
+    GCF_017916305.1/
+        GCF_017916305.1.info.csv
+        GCF_017916305.1_LU_Lenr_1.0_genomic.fna
+        GCF_017916305.1_LU_Lenr_1.0_genomic.gff
+Spironucleus_salmonicida.348837/
+    GCF_000497125.1/
+        GCF_000497125.1_ASM49712v2_genomic.gff
+        GCF_000497125.1.info.csv
+        GCF_000497125.1_ASM49712v2_genomic.fna
+Drosophila_miranda.7229/
+    GCF_003369915.1/
+        GCF_003369915.1_D.miranda_PacBio2.1_genomic.fna
+        GCF_003369915.1.info.csv
+        GCF_003369915.1_D.miranda_PacBio2.1_genomic.gff
+Plasmodium_cynomolgi_strain_B.1120755/
+    GCF_000321355.1/
+        GCF_000321355.1.info.csv
+        GCF_000321355.1_PcynB_1.0_genomic.gff
+        GCF_000321355.1_PcynB_1.0_genomic.fna
+Leishmania_donovani.5661/
+    GCF_000227135.1/
+        GCF_000227135.1_ASM22713v2_genomic.gff
+        GCF_000227135.1_ASM22713v2_genomic.fna
+        GCF_000227135.1.info.csv
+Drosophila_persimilis.7234/
+    GCF_003286085.1/
+        GCF_003286085.1.info.csv
+        GCF_003286085.1_DperRS2_genomic.gff
+        GCF_003286085.1_DperRS2_genomic.fna
+Plasmodium_relictum.85471/
+    GCF_900005765.1/
+        GCF_900005765.1_PRELSG_genomic.gff
+        GCF_900005765.1_PRELSG_genomic.fna
+        GCF_900005765.1.info.csv
+Cryptosporidium_meleagridis.93969/
+    GCA_039657295.1/
+        GCA_039657295.1_UGA_CmTU1867-BEI_1.0_genomic.fna
+        GCA_039657295.1_UGA_CmTU1867-BEI_1.0_genomic.gff
+        GCA_039657295.1.info.csv
+Plasmodium_reichenowi.5854/
+    GCF_001601855.1/
+        GCF_001601855.1_ASM160185v1_genomic.fna
+        GCF_001601855.1_ASM160185v1_genomic.gff
+        GCF_001601855.1.info.csv
+Babesia_bovis_T2Bo.484906/
+    GCF_000165395.2/
+        GCF_000165395.2_ASM16539v2_genomic.gff
+        GCF_000165395.2.info.csv
+        GCF_000165395.2_ASM16539v2_genomic.fna
+Plasmodium_vinckei_vinckei.54757/
+    GCF_900681995.1/
+        GCF_900681995.1_PVVCY_v1_genomic.fna
+        GCF_900681995.1_PVVCY_v1_genomic.gff
+        GCF_900681995.1.info.csv
+Drosophila_willistoni.7260/
+    GCF_018902025.1/
+        GCF_018902025.1.info.csv
+        GCF_018902025.1_UCI_dwil_1.1_genomic.gff
+        GCF_018902025.1_UCI_dwil_1.1_genomic.fna
+Theileria_annulata.5874/
+    GCF_000003225.4/
+        GCF_000003225.4.info.csv
+        GCF_000003225.4_ASM322v1_genomic.gff
+        GCF_000003225.4_ASM322v1_genomic.fna
+Besnoitia_besnoiti.94643/
+    GCF_002563875.1/
+        GCF_002563875.1_Bbes1.0_genomic.fna
+        GCF_002563875.1.info.csv
+        GCF_002563875.1_Bbes1.0_genomic.gff
+Leishmania_braziliensis_MHOM_BR_75_M2904.420245/
+    GCF_000002845.2/
+        GCF_000002845.2_ASM284v2_genomic.fna
+        GCF_000002845.2_ASM284v2_genomic.gff
+        GCF_000002845.2.info.csv
+Drosophila_grimshawi.7222/
+    GCF_018153295.1/
+        GCF_018153295.1_ASM1815329v1_genomic.fna
+        GCF_018153295.1_ASM1815329v1_genomic.gff
+        GCF_018153295.1.info.csv
+Plasmodium_sp_gorilla_clade_G2.880535/
+    GCF_900097015.1/
+        GCF_900097015.1_PADLG01_genomic.gff
+        GCF_900097015.1_PADLG01_genomic.fna
+        GCF_900097015.1.info.csv
+Drosophila_ficusphila.30025/
+    GCF_018152265.1/
+        GCF_018152265.1_ASM1815226v1_genomic.gff
+        GCF_018152265.1_ASM1815226v1_genomic.fna
+        GCF_018152265.1.info.csv
+Cryptosporidium_sp_43IA8.2138604/
+    GCA_031892065.1/
+        GCA_031892065.1_ASM3189206v1_genomic.fna
+        GCA_031892065.1.info.csv
+        GCA_031892065.1_ASM3189206v1_genomic.gff
+Plasmodium_yoelii.5861/
+    GCF_900002385.2/
+        GCF_900002385.2_GCA_900002385_genomic.gff
+        GCF_900002385.2.info.csv
+        GCF_900002385.2_GCA_900002385_genomic.fna
+Peronospora_effusa.542832/
+    GCA_021491655.1/
+        GCA_021491655.1_ASM2149165v1_genomic.gff
+        GCA_021491655.1.info.csv
+        GCA_021491655.1_ASM2149165v1_genomic.fna
+Leishmania_naiffi.5678/
+    GCA_962239345.1/
+        GCA_962239345.1_Lnaiffi_IOCL1365_genomic.gff
+        GCA_962239345.1_Lnaiffi_IOCL1365_genomic.fna
+        GCA_962239345.1.info.csv
+Theileria_equi_strain_WA.1537102/
+    GCF_000342415.1/
+        GCF_000342415.1_JCVI-bewag-v1.1_genomic.gff
+        GCF_000342415.1.info.csv
+        GCF_000342415.1_JCVI-bewag-v1.1_genomic.fna
+Plasmodium_gaboni.647221/
+    GCF_001602025.1/
+        GCF_001602025.1_ASM160202v1_genomic.gff
+        GCF_001602025.1_ASM160202v1_genomic.fna
+        GCF_001602025.1.info.csv
+Leishmania_shawi.5680/
+    GCA_962240455.1/
+        GCA_962240455.1_Lshawi_IOCL1545_genomic.gff
+        GCA_962240455.1.info.csv
+        GCA_962240455.1_Lshawi_IOCL1545_genomic.fna
+Plasmodium_knowlesi_strain_H.5851/
+    GCF_000006355.2/
+        GCF_000006355.2.info.csv
+        GCF_000006355.2_GCA_000006355.2_genomic.fna
+        GCF_000006355.2_GCA_000006355.2_genomic.gff
+Plasmodium_sp_gorilla_clade_G1.880534/
+    GCA_900095595.1/
+        GCA_900095595.1.info.csv
+        GCA_900095595.1_PPRFG01_genomic.gff
+        GCA_900095595.1_PPRFG01_genomic.fna
+Cryptosporidium_parvum_Iowa_II.353152/
+    GCF_000165345.1/
+        GCF_000165345.1.info.csv
+        GCF_000165345.1_ASM16534v1_genomic.fna
+        GCF_000165345.1_ASM16534v1_genomic.gff
+Plasmodium_coatneyi.208452/
+    GCF_001680005.1/
+        GCF_001680005.1_ASM168000v1_genomic.fna
+        GCF_001680005.1_ASM168000v1_genomic.gff
+        GCF_001680005.1.info.csv
+Leishmania_orientalis.2249476/
+    GCF_017916335.1/
+        GCF_017916335.1.info.csv
+        GCF_017916335.1_LU_Lori_1.0_genomic.fna
+        GCF_017916335.1_LU_Lori_1.0_genomic.gff
+Leishmania_martiniquensis.1580590/
+    GCF_017916325.1/
+        GCF_017916325.1_LU_Lmar_1.0_genomic.fna
+        GCF_017916325.1.info.csv
+        GCF_017916325.1_LU_Lmar_1.0_genomic.gff
+Drosophila_melanogaster.7227/
+    GCF_000001215.4/
+        GCF_000001215.4.info.csv
+        GCF_000001215.4_Release_6_plus_ISO1_MT_genomic.gff
+        GCF_000001215.4_Release_6_plus_ISO1_MT_genomic.fna
+Babesia_bigemina.5866/
+    GCF_000981445.1/
+        GCF_000981445.1.info.csv
+        GCF_000981445.1_Bbig001_genomic.gff
+        GCF_000981445.1_Bbig001_genomic.fna
+Dictyostelium_discoideum_AX4.352472/
+    GCF_000004695.1/
+        GCF_000004695.1_dicty_2.7_genomic.fna
+        GCF_000004695.1_dicty_2.7_genomic.gff
+        GCF_000004695.1.info.csv
+Leishmania_panamensis.5679/
+    GCF_000755165.1/
+        GCF_000755165.1_ASM75516v1_genomic.fna
+        GCF_000755165.1_ASM75516v1_genomic.gff
+        GCF_000755165.1.info.csv
+Trypanosoma_brucei_brucei_TREU927.185431/
+    GCF_000002445.2/
+        GCF_000002445.2.info.csv
+        GCF_000002445.2_ASM244v1_genomic.gff
+        GCF_000002445.2_ASM244v1_genomic.fna
+Angomonas_deanei.59799/
+    GCA_903995115.1/
+        GCA_903995115.1_Adeanei_nanopore_chromosomes_genomic.gff
+        GCA_903995115.1.info.csv
+        GCA_903995115.1_Adeanei_nanopore_chromosomes_genomic.fna
+Leishmania_utingensis.653362/
+    GCA_962240445.1/
+        GCA_962240445.1_Lutingensis_IOCL2689_genomic.fna
+        GCA_962240445.1.info.csv
+        GCA_962240445.1_Lutingensis_IOCL2689_genomic.gff
+Drosophila_erecta.7220/
+    GCF_003286155.1/
+        GCF_003286155.1_DereRS2_genomic.gff
+        GCF_003286155.1.info.csv
+        GCF_003286155.1_DereRS2_genomic.fna
+Drosophila_pseudoobscura.7237/
+    GCF_009870125.1/
+        GCF_009870125.1_UCI_Dpse_MV25_genomic.fna
+        GCF_009870125.1_UCI_Dpse_MV25_genomic.gff
+        GCF_009870125.1.info.csv
+Leishmania_mexicana_MHOM_GT_2001_U1103.929439/
+    GCF_000234665.1/
+        GCF_000234665.1_ASM23466v4_genomic.gff
+        GCF_000234665.1.info.csv
+        GCF_000234665.1_ASM23466v4_genomic.fna
+Porcisia_hertigi.2761500/
+    GCF_017918235.1/
+        GCF_017918235.1_LU_Pher_1.0_genomic.gff
+        GCF_017918235.1.info.csv
+        GCF_017918235.1_LU_Pher_1.0_genomic.fna
+Leishmania_major_strain_Friedlin.347515/
+    GCF_000002725.2/
+        GCF_000002725.2_ASM272v2_genomic.gff
+        GCF_000002725.2_ASM272v2_genomic.fna
+        GCF_000002725.2.info.csv
+Plasmodium_sp_gorilla_clade_G3.880536/
+    GCA_900097035.1/
+        GCA_900097035.1.info.csv
+        GCA_900097035.1_PBLACG01_genomic.fna
+        GCA_900097035.1_PBLACG01_genomic.gff
+Trichomonas_vaginalis_G3.412133/
+    GCF_026262505.1/
+        GCF_026262505.1_NYU_TvagG3_2_genomic.gff
+        GCF_026262505.1.info.csv
+        GCF_026262505.1_NYU_TvagG3_2_genomic.fna
+Thalassiosira_pseudonana_CCMP1335.296543/
+    GCF_000149405.2/
+        GCF_000149405.2.info.csv
+        GCF_000149405.2_ASM14940v2_genomic.gff
+        GCF_000149405.2_ASM14940v2_genomic.fna
+Plasmodium_malariae.5858/
+    GCF_900090045.1/
+        GCF_900090045.1_PmUG01_genomic.gff
+        GCF_900090045.1_PmUG01_genomic.fna
+        GCF_900090045.1.info.csv
+Toxoplasma_gondii_ME49.508771/
+    GCF_000006565.2/
+        GCF_000006565.2_TGA4_genomic.gff
+        GCF_000006565.2.info.csv
+        GCF_000006565.2_TGA4_genomic.fna
+Leishmania_sp_Namibia.2802991/
+    GCF_017918225.1/
+        GCF_017918225.1_LU_LNam_1.0_genomic.gff
+        GCF_017918225.1.info.csv
+        GCF_017918225.1_LU_LNam_1.0_genomic.fna
+Plasmodium_vivax.5855/
+    GCF_000002415.2/
+        GCF_000002415.2_ASM241v2_genomic.fna
+        GCF_000002415.2.info.csv
+        GCF_000002415.2_ASM241v2_genomic.gff
+Neospora_caninum_Liverpool.572307/
+    GCF_000208865.1/
+        GCF_000208865.1_ASM20886v2_genomic.fna
+        GCF_000208865.1.info.csv
+        GCF_000208865.1_ASM20886v2_genomic.gff
