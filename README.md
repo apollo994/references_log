@@ -6,12 +6,14 @@ This script takes a unzipped ncbi datasets folder and a target location. The ncb
 
 #### Dependencies 
 - [NCBI dataset API](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/command-line-tools/download-and-install/)
-- pandas
+- python and pandas
 
 An example ncbi comand to get all SAR assemblies is:
 ```
-# dowload the dataset
+# dowload a dataset of multiple species 
 datasets download genome taxon 2698737 --assembly-level chromosome,complete --annotated --reference  --include genome,gff3
+# or download a single assembly
+datasets download genome accession GCF_028858775.2 --include gff3,genome
 # unzip archive
 unzip ncbi_dataset.zip
 # organize the assemblies in the target folder 
