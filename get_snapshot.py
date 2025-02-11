@@ -1,10 +1,21 @@
-# This script takes a folder with the structure of species/assemblies/files
-# and it produces a snapshot to use in case the someone wants to 
-# recreate the same folder structure
-
 import os
 import sys
 import datetime
+
+def get_folder_size(path):
+    """
+    Calculates the total size of a folder by summing up all file sizes.
+
+    :param path: Folder path
+    :return: Total size in bytes
+    """
+    total_size = 0
+    for dirpath, _, filenames in os.walk(path):
+        for filename in filenames:
+            filepath = os.path.join(dirpath, filename)
+            if os.path.isfile(filepath):
+                total_size += os.path.getsize(filepath)
+    return total_size
 
 def generate_snapshot(folder_path):
     """
@@ -21,8 +32,18 @@ def generate_snapshot(folder_path):
     timestamp = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     output_file = os.path.join(snapshot_dir, f"snapshot_{timestamp}.txt")
 
+    # Count number of species (first-level directories)
+    species_count = sum(1 for item in os.listdir(folder_path) if os.path.isdir(os.path.join(folder_path, item)))
+
+    # Get total folder size
+    total_size_bytes = get_folder_size(folder_path)
+    total_size_mb = total_size_bytes / (1024 * 1024)  # Convert to MB
+
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(f"Snapshot of: {folder_path}\n")
+        f.write("=" * 50 + "\n")
+        f.write(f"Number of species (first-level folders): {species_count}\n")
+        f.write(f"Total size of the folder: {total_size_mb:.2f} MB ({total_size_bytes} bytes)\n")
         f.write("=" * 50 + "\n")
 
         for root, dirs, files in os.walk(folder_path):
