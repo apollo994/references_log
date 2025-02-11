@@ -37,13 +37,13 @@ def generate_snapshot(folder_path):
 
     # Get total folder size
     total_size_bytes = get_folder_size(folder_path)
-    total_size_mb = total_size_bytes / (1024 * 1024)  # Convert to MB
+    total_size_gb = total_size_bytes / (1024 ** 3)  # Convert to GB
 
     with open(output_file, "w", encoding="utf-8") as f:
         f.write(f"Snapshot of: {folder_path}\n")
         f.write("=" * 50 + "\n")
         f.write(f"Number of species (first-level folders): {species_count}\n")
-        f.write(f"Total size of the folder: {total_size_mb:.2f} MB ({total_size_bytes} bytes)\n")
+        f.write(f"Total size of the folder: {total_size_gb:.2f} GB ({total_size_bytes} bytes)\n")
         f.write("=" * 50 + "\n")
 
         for root, dirs, files in os.walk(folder_path):
