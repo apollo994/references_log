@@ -2,7 +2,7 @@
 A set of scripts to automate the dowload and tracking of assembles and annotations in a shared file system
 
 ### organize_ncbi.py
-This script takes a unzipped ncbi datasets folder and a target location. The ncbi folder is copied into the target folder following the `species/assembly/file` structure. Additionally metadata are saved. Currently the scripts only works with *fna and *gff3 files.
+This script takes a unzipped ncbi datasets folder and a target location. The ncbi folder is copied into the target folder following the `target_folder/species/assembly/file` structure. Additionally metadata are saved. Currently the scripts only works with *fna and *gff3 files.
 
 #### Dependencies 
 - [NCBI dataset API](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/command-line-tools/download-and-install/)
@@ -16,7 +16,7 @@ datasets download genome taxon 2698737 --assembly-level chromosome,complete --an
 datasets download genome accession GCF_028858775.2 --include gff3,genome
 # unzip archive
 unzip ncbi_dataset.zip
-# organize the assemblies in the target folder 
+# organize the assemblies in the target folder (this is the folder where the species folder will be created)
 python organize_ncbi.py --ncbi ncbi_dataset --target target_folder/
 
 ``` 
