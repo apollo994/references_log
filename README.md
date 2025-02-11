@@ -4,6 +4,10 @@ A set of scripts to automate the dowload and tracking of assembles and annotatio
 ### organize_ncbi.py
 This script takes a unzipped ncbi datasets folder and a target location. The ncbi folder is copied into the target folder following the `species/assembly/file` structure. Additionally metadata are saved. Currently the scripts only works with *fna and *gff3 files.
 
+#### Dependencies 
+- [NCBI dataset API](https://www.ncbi.nlm.nih.gov/datasets/docs/v2/command-line-tools/download-and-install/)
+- pandas
+
 An example ncbi comand to get all SAR assemblies is:
 ```
 # dowload the dataset
